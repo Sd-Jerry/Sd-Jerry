@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Sarthak Dhadvi</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sd-Jerry&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sd-jerry&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
 <h3 align="center">Frontend Developer | JavaScript | React | Next.js</h3>
@@ -58,15 +58,15 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sd-Jerry&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sd-jerry&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sd-Jerry&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-jerry&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sd-Jerry&theme=radical&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sd-jerry&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,9 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sd-Jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
 </p>
 
 ---
@@ -83,14 +85,24 @@
 # 🚀 Featured Projects
 
 <p align="center">
-
-<a href="https://github.com/Sd-Jerry/my-portfolio-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sd-Jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
+  
+<a href="https://github.com/Sd-jerry/my-portfolio-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
 </a>
 
-</p>
+</p?
 
 ---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg"/>
+</p>
+
+## 📊 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/sd-jerry/sd-jerry/main/github-metrics.svg"/>
 
 # 📈 Contribution Snake
 
