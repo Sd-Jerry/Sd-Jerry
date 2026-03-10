@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Front-End Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Sd-jerry">
-    <img src="https://komarev.com/ghpvc/?username=Sd-jerry&label=Profile%20views&color=FF69B4&style=flat-square" alt="Sd-jerry's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=sd-jerry">
+    <img src="https://komarev.com/ghpvc/?username=sd-jerry&label=Profile%20views&color=FF69B4&style=flat-square" alt="sd-jerry's profile views" />
   </a>
 </p>
 
@@ -21,15 +21,18 @@
 
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sd-jerry&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Sd-jerry's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Sd-jerry&theme=radical&hide_border=true&cache_seconds=86400" alt="Sd-jerry's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sd-jerry&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sd-jerry&theme=radical&hide_border=true" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sarthak Dhadvi's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Sd-jerry&theme=radical&radius=10" alt="Sd-jerry's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-jerry&theme=radical&radius=10" />
 </p>
 
 
@@ -51,7 +54,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sd-jerry&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-jerry&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
