@@ -79,28 +79,28 @@ Hi 👋 I'm Sarthak Dhadvi
 
 ---
 
-## 🚀 Featured Projects
+### 💼 Portfolio Projects Collection
+Collection of my real-world frontend development projects.
 
 <p align="center">
-
-<a href="https://github.com/Sd-jerry/levins-pharmacy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=levins-pharmacy&theme=radical&hide_border=true"/>
-</a>
-
+  
 <a href="https://github.com/Sd-jerry/my-portfolio-projects">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
 </a>
 
+</p?
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg"/>
 </p>
 
----
+## 📊 GitHub Metrics
 
-### 💼 Portfolio Projects Collection
-Collection of my real-world frontend development projects.
-
-🔗 https://github.com/Sd-jerry/my-portfolio-projects
-
----
+<img src="https://raw.githubusercontent.com/sd-jerry/sd-jerry/main/github-metrics.svg"/>
 
 # 📈 Contribution Snake
 
@@ -111,6 +111,11 @@ Collection of my real-world frontend development projects.
 </p>
 
 ---
+
+## ⚡ Recent Coding Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 # 🌐 Connect With Me
 
