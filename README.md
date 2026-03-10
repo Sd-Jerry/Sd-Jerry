@@ -3,7 +3,7 @@ Hi 👋 I'm Sarthak Dhadvi
 </h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sd-jerry&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sd-jerry&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
 <h3 align="center">Frontend Developer | JavaScript | React | Next.js</h3>
@@ -55,15 +55,15 @@ Hi 👋 I'm Sarthak Dhadvi
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sd-jerry&show_icons=true&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sd-jerry&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-jerry&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sd-jerry&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sd-jerry&theme=radical&hide_border=true"/>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sd-jerry&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -73,7 +73,7 @@ Hi 👋 I'm Sarthak Dhadvi
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
 
 </p>
 
@@ -85,7 +85,7 @@ Collection of my real-world frontend development projects.
 <p align="center">
   
 <a href="https://github.com/Sd-jerry/my-portfolio-projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
 </a>
 
 </p>
@@ -100,7 +100,7 @@ Collection of my real-world frontend development projects.
 
 ## 📊 GitHub Metrics
 
-<img src="https://raw.githubusercontent.com/sd-jerry/sd-jerry/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/Sd-jerry/Sd-jerry/main/github-metrics.svg"/>
 
 # 📈 Contribution Snake
 
