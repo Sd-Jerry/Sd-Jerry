@@ -88,7 +88,7 @@ Collection of my real-world frontend development projects.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
 </a>
 
-</p?
+</p>
 
 ---
 
