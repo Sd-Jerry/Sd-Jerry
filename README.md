@@ -1,74 +1,122 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/unicorn.gif" height="30px" width="30px"> I'm Sarthak Dhadvi</h1>
-<h3 align="center">A Passionate Front-End Developer</h3>
+<h1 align="center">
+Hi 👋 I'm Sarthak Dhadvi
+</h1>
+
+<h3 align="center">Frontend Developer | JavaScript | React | Next.js</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=sd-jerry">
-    <img src="https://komarev.com/ghpvc/?username=sd-jerry&label=Profile%20views&color=FF69B4&style=flat-square" alt="sd-jerry's profile views" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+%7C+React+%7C+Next.js;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+---
 
-## 📌 About Me
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about HTML, CSS, JAVASCRIPT
-- ⚡ Fun fact- The first-ever computer game is called Spacewar.
+# 👨‍💻 About Me
 
+- 💻 Passionate **Front-End Developer**
+- 🌱 Currently learning **TypeScript & Next.js**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- ⚡ Fun fact: The first computer game was **Spacewar**
 
-## 🧠 My Focus Areas
-- Front-end Developer specializing in modern UI's. Building responsive, accessible experiences.            
-➡️ Full-stack aspiring.
+---
 
+# 🚀 Tech Stack
 
-## 📊 GitHub Stats & Trophies
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sd-jerry&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sd-jerry&theme=radical&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sd-jerry&theme=radical&radius=10" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-### Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /></p>
-
-### Frontend 
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+### Frontend
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
 ### Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js)
 
 ### Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;"  background-color="red"/></p>
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb)
 
 ### Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-jerry&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sd-jerry&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-jerry&theme=radical&hide_border=true"/>
+
 </p>
 
-## 🔗 Connect with Me
-<p align="center"> <a href="https://wa.me/919662238178" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:sarthakd82@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=sd-jerry&theme=radical&hide_border=true"/>
 
-<p align="center"><a href="https://www.buymeacoffee.com/Sdjerry" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sd-jerry&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 💊 Levin's Pharmacy Website
+Modern responsive pharmacy website built with HTML, CSS, and JavaScript.
+
+🔗 https://github.com/Sd-jerry/levins-pharmacy
+
+---
+
+### 💼 Portfolio Projects Collection
+Collection of my real-world frontend development projects.
+
+🔗 https://github.com/Sd-jerry/my-portfolio-projects
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sarthakd82@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/919662238178">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ From <b>Sarthak Dhadvi</b>
+</p>
