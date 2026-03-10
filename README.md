@@ -2,6 +2,10 @@
 Hi 👋 I'm Sarthak Dhadvi
 </h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sd-jerry&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+</p>
+
 <h3 align="center">Frontend Developer | JavaScript | React | Next.js</h3>
 
 <p align="center">
@@ -75,12 +79,19 @@ Hi 👋 I'm Sarthak Dhadvi
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 💊 Levin's Pharmacy Website
-Modern responsive pharmacy website built with HTML, CSS, and JavaScript.
+<p align="center">
 
-🔗 https://github.com/Sd-jerry/levins-pharmacy
+<a href="https://github.com/Sd-jerry/levins-pharmacy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=levins-pharmacy&theme=radical&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Sd-jerry/my-portfolio-projects">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sd-jerry&repo=my-portfolio-projects&theme=radical&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
