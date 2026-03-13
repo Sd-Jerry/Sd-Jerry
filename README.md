@@ -37,7 +37,9 @@
 
 </p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sd-Jerry&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sd-Jerry&theme=radical&no-frame=false" />
+</p>
 
 ## 🛠️ Languages & Tools
 
